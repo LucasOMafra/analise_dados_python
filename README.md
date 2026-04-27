@@ -7,12 +7,12 @@ Projeto de análise de dados com Python, utilizando **NumPy**, **Pandas** e **Ma
 ## 🗂️ Estrutura do Projeto
 
 analise_dados_python/
-├── analise.py          # Script principal de análise
+├── analise.py 
 ├── data/
-│   └── vendas.csv      # Dataset gerado automaticamente
+│   └── vendas.csv
 ├── outputs/
-│   └── dashboard_vendas.png  # Dashboard exportado
-├── requirements.txt    # Dependências do projeto
+│   └── dashboard_vendas.png
+├── requirements.txt
 └── README.md
 
 ---
